@@ -1,0 +1,14 @@
+{
+  "name": "testapi",
+  "version": "1.0.0",
+  "description": "a test api",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Iain",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
